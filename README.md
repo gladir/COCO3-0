@@ -11,7 +11,7 @@ Aperçu de la commande OS9 :
 
 <h2>Liste des fichiers</h2>
 
-Voici la liste des différents fichiers proposés dans Corail :
+Voici la liste des différents fichiers proposés dans COCO3-0 :
 
 <table>
 		<tr>
