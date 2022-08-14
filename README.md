@@ -20,7 +20,7 @@ Voici la liste des différents fichiers proposés dans COCO3-0 :
 		</tr>
 		<tr>
 			<td><b>COCO3.PAS</b></td>
-			<td>Cette commande permet de lancer l'interpréteur BASIC du CoCoc 3.</td>
+			<td>Cette commande permet de lancer l'interpréteur BASIC du CoCo 3.</td>
 		</tr>
 	    <tr>
 			<td><b>OS9.PAS</b></td>
