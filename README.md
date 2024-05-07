@@ -22,6 +22,10 @@ Voici la liste des différents fichiers proposés dans COCO3-0 :
 			<td><b>COCO3.PAS</b></td>
 			<td>Cette commande permet de lancer l'interpréteur BASIC du CoCo 3.</td>
 		</tr>
+		<tr>
+			<td><b>DIS6809.PAS</b></td>
+			<td>Cette commande permet de désassembler un code binaire de microprocesseur 6809 en langage de programmation assembleur 6809.</td>
+		</tr>
 	    <tr>
 			<td><b>OS9.PAS</b></td>
 			<td>Cette commande permet de lancer l'interpréteur de commande <a href="https://www.gladir.com/OS/OS9/intro.htm">OS-9</a> des Color Computer de Tandy Radio Shack.</td>
