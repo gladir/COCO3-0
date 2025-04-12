@@ -1,5 +1,5 @@
 # COCO3-0
-Liste de commandes écrit en Pascal pour le CoCo 3 de Tandy/Radio-Shack
+Liste de commandes écrit en Pascal (Turbo Pascal ou Free Pascal) pour le CoCo 3 de Tandy/Radio-Shack
 
 Aperçu de la commande COCO3 :
 
